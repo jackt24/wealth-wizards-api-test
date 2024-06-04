@@ -1,4 +1,5 @@
-# wealth-wizards-api-test
+# Wealth Wizards API Tests
+
 Karate/Java tests for the mock Wealth Wizards APIs
 
 [You can find the UI tests here](https://github.com/jackt24/wealth-wizards-ui-tests)
